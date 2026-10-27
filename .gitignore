@@ -1,8 +1,3 @@
-# Folders for initial commit
-src/main/java/org/example/**
-test/java/org/example/**
-src/main/resources/
-
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
